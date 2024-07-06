@@ -7,7 +7,7 @@ def fix():
                 "киргизский":["Кыргызский"]}
         #Range of cirillic characters
         uni_val = range(1040, 1104)
-        KR = input("Текст ебашь: ")
+        KR = input("Текст: ")
         output = KR
 
         dot_ind = 0
